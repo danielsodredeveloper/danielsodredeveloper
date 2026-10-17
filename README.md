@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Daniel Sodré 👋</h1>
 
-<h3 align="center">Full Stack Developer | JavaScript · React · Next.js</h3>
+<h3 align="center">Full Stack Developer | JavaScript · React </h3>
 
 <p align="center">
   I build web applications that turn real-world needs into practical digital solutions.
